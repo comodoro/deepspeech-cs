@@ -11,5 +11,5 @@ This is an experimental deepspeech model for the Czech language. The model is un
 
 The model has been originally transfer-learned from the [English Deepspeech/Coqui model](https://github.com/coqui-ai/STT/releases/tag/v0.9.3) version 0.9.3.
 
-Released scorers have been created using the [CWC 2011 Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-B847-6) by Spoustová, Johanka and Spousta, Miroslav (CC-BY 3.0)
+Released scorers have been created using the [CWC 2011 Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-B847-6) by Spoustová, Johanka and Spousta, Miroslav (CC-BY 3.0) as well as [Wikipedia XML dump](https://dumps.wikimedia.org/backup-index.html), [Czech part of Europarl v7](https://www.statmt.org/europarl/), public domain [e-books from Municipal Library of Prague](https://www.mlp.cz/cz/katalog-on-line/eknihy/) and transcriptions of the training data.
 
